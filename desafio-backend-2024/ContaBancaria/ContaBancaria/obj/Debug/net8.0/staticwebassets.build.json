@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "UnbK3QRL+2dEDL4Fz4DPuG3/7UM1iltdlk8xzpXubuU=",
+  "Source": "ContaBancaria",
+  "BasePath": "_content/ContaBancaria",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ContaBancaria\\wwwroot",
+      "Source": "ContaBancaria",
+      "ContentRoot": "C:\\Users\\fabri\\source\\repos\\inovamobil\\desafio-backend-2024\\ContaBancaria\\ContaBancaria\\wwwroot\\",
+      "BasePath": "_content/ContaBancaria",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\fabri\\source\\repos\\inovamobil\\desafio-backend-2024\\ContaBancaria\\ContaBancaria\\wwwroot\\imagens\\inovamobil_logo.jpg",
+      "SourceId": "ContaBancaria",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fabri\\source\\repos\\inovamobil\\desafio-backend-2024\\ContaBancaria\\ContaBancaria\\wwwroot\\",
+      "BasePath": "_content/ContaBancaria",
+      "RelativePath": "imagens/inovamobil_logo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\inovamobil_logo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\fabri\\source\\repos\\inovamobil\\desafio-backend-2024\\ContaBancaria\\ContaBancaria\\wwwroot\\imagens\\mercado-livre.webp",
+      "SourceId": "ContaBancaria",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fabri\\source\\repos\\inovamobil\\desafio-backend-2024\\ContaBancaria\\ContaBancaria\\wwwroot\\",
+      "BasePath": "_content/ContaBancaria",
+      "RelativePath": "imagens/mercado-livre.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\mercado-livre.webp"
+    }
+  ]
+}

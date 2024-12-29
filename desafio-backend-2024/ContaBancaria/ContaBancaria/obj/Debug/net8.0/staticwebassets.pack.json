@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\fabri\\source\\repos\\inovamobil\\desafio-backend-2024\\ContaBancaria\\ContaBancaria\\wwwroot\\imagens\\inovamobil_logo.jpg",
+      "PackagePath": "staticwebassets\\imagens\\inovamobil_logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fabri\\source\\repos\\inovamobil\\desafio-backend-2024\\ContaBancaria\\ContaBancaria\\wwwroot\\imagens\\mercado-livre.webp",
+      "PackagePath": "staticwebassets\\imagens\\mercado-livre.webp"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ContaBancaria.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ContaBancaria.props",
+      "PackagePath": "build\\ContaBancaria.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ContaBancaria.props",
+      "PackagePath": "buildMultiTargeting\\ContaBancaria.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ContaBancaria.props",
+      "PackagePath": "buildTransitive\\ContaBancaria.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
